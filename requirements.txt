@@ -1,0 +1,10 @@
+# polymarket-us is pinned exactly: the SDK source for this version was read
+# and verified against. Upgrade only deliberately.
+polymarket-us==0.1.2
+websockets==17.1
+httpx==0.28.1
+cryptography==50.0.1
+python-dotenv==1.2.3
+pytest==9.1.1
+# zoneinfo fallback database for Windows (Linux uses /usr/share/zoneinfo)
+tzdata==2026.4
